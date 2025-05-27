@@ -1,0 +1,2 @@
+Hello, Python file handling!
+This is appended content.

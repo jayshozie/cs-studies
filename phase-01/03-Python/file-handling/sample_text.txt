@@ -1,0 +1,5 @@
+Line 1: The quick brown fox.
+Line 2: Jumps over the lazy dog.
+Line 3: My name is Alice.
+Line 4: What is your name?
+Line 5: Python is fun.

@@ -1,0 +1,5 @@
+Total Value of In-Stock Electronics: 1300.50
+In-Stock Electronics Products:
+Laptop
+Mouse
+Keyboard

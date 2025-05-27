@@ -1,0 +1,8 @@
+Product Name,Category,Price,In Stock
+Laptop,Electronics,1200.50,True
+Mouse,Electronics,25.00,True
+Keyboard,Electronics,75.00,True
+Desk Chair,Furniture,150.00,False
+Coffee Maker,Appliances,80.00,True
+Smart TV,Electronics,900.00,False
+"Blender, High-Speed",Appliances,60.00,True

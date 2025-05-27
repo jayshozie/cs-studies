@@ -1,0 +1,4 @@
+Product Category Counts:
+Electronics: 4
+Furniture: 1
+Appliances: 2

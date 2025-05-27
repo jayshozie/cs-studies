@@ -1,0 +1,9 @@
+Total Valid Records: 6
+Total Revenue: $13565.00
+Processed Sales Records:
+North - Laptop: 10 units, Revenue: $12000.00
+South - Mouse: 5 units, Revenue: $125.00
+East - Keyboard: 8 units, Revenue: $600.00
+North - Webcam: 12 units, Revenue: $300.00
+South - Speakers: 7 units, Revenue: $140.00
+East - Printer: 2 units, Revenue: $400.00

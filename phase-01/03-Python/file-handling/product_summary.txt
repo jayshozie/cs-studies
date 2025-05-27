@@ -1,0 +1,6 @@
+Product Sales Summary:
+Keyboard: Total Quantity Sold: 11, Total Revenue: $825.0
+Laptop: Total Quantity Sold: 10, Total Revenue: $12000.0
+Monitor: Total Quantity Sold: 3, Total Revenue: $900.0
+Mouse: Total Quantity Sold: 18, Total Revenue: $450.0
+Webcam: Total Quantity Sold: 6, Total Revenue: $300.0

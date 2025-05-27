@@ -1,0 +1,9 @@
+192.168.1.1 - [2023-10-26 10:00:01] INFO: User login successful for admin
+10.0.0.5 - [2023-10-26 10:00:05] WARNING: Disk space low on /dev/sda1
+192.168.1.1 - [2023-10-26 10:00:10] INFO: Accessed report 'sales_Q3.pdf'
+172.16.0.25 - [2023-10-26 10:00:15] ERROR: Database connection failed
+10.0.0.5 - [2023-10-26 10:00:20] INFO: User login successful for john_doe
+192.168.1.1 - [2023-10-26 10:00:25] INFO: User login successful for jane_doe
+172.16.0.25 - [2023-10-26 10:00:30] WARNING: High CPU usage (95%)
+10.0.0.5 - [2023-10-26 10:00:35] INFO: Downloaded file 'config.bak'
+192.168.1.1 - [2023-10-26 10:00:40] ERROR: File not found: /var/log/app.log

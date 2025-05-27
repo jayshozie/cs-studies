@@ -1,0 +1,11 @@
+Region,Product,Units Sold,Revenue
+North,Laptop,10,12000.00
+South,Mouse,5,125.00
+East,Keyboard,8,600.00
+West,Monitor,3,, # Missing Revenue field, extra comma
+Central,Projector,abc,1500.00 # 'abc' is not a number
+North,Webcam,12,300.00
+South,Speakers,7,140.00
+
+East,Printer,2,400.00
+InvalidLine,Data,1,2,3,4,5 # Too many fields for our expected structure
