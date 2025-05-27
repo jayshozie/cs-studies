@@ -127,11 +127,11 @@ primary programming language for initial implementation.)*
 5.  **Version Control with Git**
     * [x] All Basic Commands: `init`, `add`, `commit`, `log`, `branch`, `merge`, `push`, `pull`.
         * **Depth Defined:** Mastery of all basic commands.
-    * [ ] Git Workflow: Deep understanding of the typical development cycle.
+    * [x] Git Workflow: Deep understanding of the typical development cycle.
         * **Depth Defined:** Strong practical foundation in Git for individual and basic team development.
-    * [ ] Conflict Resolution: Proficiency in resolving merge conflicts.
+    * [x] Conflict Resolution: Proficiency in resolving merge conflicts.
         * **Depth Defined:** Mastering merge conflicts.
-    * [ ] Inspecting History: Advanced use of `git log` (filtering, formatting).
+    * [x] Inspecting History: Advanced use of `git log` (filtering, formatting).
         * **Depth Defined:** Proficient use of `git log`, `git status`, `git diff`.
     * [ ] Undoing Changes: Mastering `git restore` (or `git checkout` for files), `git revert`, and `git reset` (soft, mixed, hard).
         * **Depth Defined:** Mastery of `git restore`, `git revert`, `git reset` for undoing changes.
