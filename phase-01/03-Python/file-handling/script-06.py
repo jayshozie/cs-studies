@@ -8,6 +8,11 @@ with open('products.csv', 'r') as products, \
         split_line = line.split(',')
         if split_line[0] == "Product Name":
             continue
+        # Alternative for skipping the header line
+        # is_header = True
+        # if is_header:
+        #     is_header = False
+        #     continue
 
         in_stock = False
 
