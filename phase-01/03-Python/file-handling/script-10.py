@@ -33,7 +33,6 @@ with open("product_sales.csv", 'r') as sales, \
         }
         """
 
-
         if product_name not in summary:
             print(f"DEBUG: 'summary' (dict): {summary}")
             tmp_string = ""
