@@ -9,3 +9,6 @@ South,Speakers,7,140.00
 
 East,Printer,2,400.00
 InvalidLine,Data,1,2,3,4,5 # Too many fields for our expected structure
+
+# Lines that includes Python-like comments including this one are intentional
+# They are malformed lines, and should not be included in the final result.

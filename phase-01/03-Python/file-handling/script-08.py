@@ -1,5 +1,7 @@
 # Solution
 
+# This solution is basically error handling fetish.
+
 import sys
 
 valid_records_count = 0
