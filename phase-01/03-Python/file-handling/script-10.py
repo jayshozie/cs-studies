@@ -20,8 +20,8 @@ with open("product_sales.csv", 'r') as sales, \
         parts = line.split(',')
 
         product_name = parts[0]
-        quantity_sold = int(parts[1])
-        unit_price = float(parts[2])
+        quantity_sold = int(parts[1])  # Since we know the data is correct
+        unit_price = float(parts[2])  # Since we know the data is correct
 
         total_sale = quantity_sold * unit_price
 
@@ -34,12 +34,12 @@ with open("product_sales.csv", 'r') as sales, \
         """
 
         if product_name not in summary:
-            print(f"DEBUG: 'summary' (dict): {summary}")
+            # print(f"DEBUG: 'summary' (dict): {summary}")
             tmp_string = ""
             tmp_string = str(str(quantity_sold) + ',' + str(total_sale))
             summary[product_name] = tmp_string
-            print(f"DEBUG: Product Name Keys: {summary}")
-            print(f"DEBUG: Product Name Value: {summary[product_name]}")
+            # print(f"DEBUG: Product Name Keys: {summary}")
+            # print(f"DEBUG: Product Name Value: {summary[product_name]}")
 
         else:
             tmp_string = ""
@@ -51,7 +51,7 @@ with open("product_sales.csv", 'r') as sales, \
             tmp_string = str(str(quantity_sold) + ',' + str(total_sale))
 
             summary[product_name] = tmp_string
-            print(f"DEBUG: 'summary' (dict): {summary}")
+            # print(f"DEBUG: 'summary' (dict): {summary}")
 
     sorted_summary = sorted(summary)
 
