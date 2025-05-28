@@ -72,9 +72,9 @@ try:
 
 except FileNotFoundError:  # Handling FileNotFoundError error
     print("Warning: sales_data.csv not found. Aborting.")
-    sys.exit(404)
+    sys.exit(1)
 except Exception as e:  # Handling any other error
     print(f"Warning: An unexpected error occurred while processing the file: {e}")
-    sys.exit(101)
+    sys.exit(1)
 
 print("\nProcessing complete. Check 'sales_summary.txt' for the report.")
