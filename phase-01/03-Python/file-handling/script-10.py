@@ -62,3 +62,10 @@ with open("product_sales.csv", 'r') as sales, \
             f"{product}: Total Quantity Sold: {total_sold}, "
             f"Total Revenue: ${total_revenue}\n"
         )
+
+"""
+Footnote: You could do this task by using tuples for the total_sold and
+          total_revenue variables.
+          That didn't come to my mind while solving this, thus
+          this monstrosity, but it works.
+"""
