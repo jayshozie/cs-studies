@@ -38,13 +38,13 @@ try:
             units_sold_str = parts[2].strip()
             revenue_str = parts[3].strip()
 
-            units_sold = 0
-            revenue = 0.0
 
             try:  # Convert data types and handle conversion errors
                 units_sold = int(units_sold_str)
                 revenue = float(revenue_str)
             except ValueError:
+                units_sold = 0
+                revenue = 0.0
                 print(f"Warning: Skipping line with non-numeric data: '{line}'")
                 continue
 
