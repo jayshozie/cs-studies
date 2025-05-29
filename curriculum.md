@@ -133,13 +133,13 @@ primary programming language for initial implementation.)*
         * **Depth Defined:** Mastering merge conflicts.
     * [x] Inspecting History: Advanced use of `git log` (filtering, formatting).
         * **Depth Defined:** Proficient use of `git log`, `git status`, `git diff`.
-    * [ ] Undoing Changes: Mastering `git restore` (or `git checkout` for files), `git revert`, and `git reset` (soft, mixed, hard).
+    * [x] Undoing Changes: Mastering `git restore` (or `git checkout` for files), `git revert`, and `git reset` (soft, mixed, hard).
         * **Depth Defined:** Mastery of `git restore`, `git revert`, `git reset` for undoing changes.
-    * [ ] Branch Management: Creating, deleting, and listing branches.
+    * [x] Branch Management: Creating, deleting, and listing branches.
         * **Depth Defined:** Proficient branch management.
-    * [ ] Remote Repositories: Adding, removing, and interacting with remotes.
+    * [x] Remote Repositories: Adding, removing, and interacting with remotes.
         * **Depth Defined:** Mastery of remote interaction.
-    * [ ] Tagging: Using tags to mark specific points in history.
+    * [x] Tagging: Using tags to mark specific points in history.
         * **Depth Defined:** Understanding and using tags.
     * [ ] Ignoring Files: Using `.gitignore`.
         * **Depth Defined:** Effective use of `.gitignore`.
