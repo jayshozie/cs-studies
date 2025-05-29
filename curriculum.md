@@ -17,7 +17,7 @@ primary programming language for initial implementation.)*
         * **Depth Defined:**
             * **Propositional Logic:** Master propositions, logical connectives, truth tables, identifying tautologies/contradictions/contingencies, logical equivalence (including De Morgan's Laws, Distributive Laws), and converting to Conjunctive Normal Form (CNF) and Disjunctive Normal Form (DNF). Fluency in translating between complex English statements and logical expressions.
             * **Predicate Logic:** Master predicates, universal ($\forall$) and existential ($\exists$) quantifiers, defining domains. Strong understanding of nested quantifiers and their interpretation. Proficiency in negating quantified statements. Basic understanding of rules of inference for both propositional and predicate logic, leading into formal proofs.
-    * [x] Set Theory
+    * [ ] Set Theory
         * **Depth Defined:**
             * **Mastery of Basics & Operations:** Fluency with definitions (sets, elements, well-defined, empty set, cardinality, roster/set-builder notation) and fundamental operations ($\cup, \cap, \setminus, A^c$).
             * **Visualizations:** Effective use of Venn diagrams.
