@@ -7,19 +7,21 @@ important historical moments in your project.
 
 ## Two Main Types of Tags:
 
-    1. **Lightweight Tags**
-        - Think of these as simple, unchangeable pointers to a commit. They are
-        just a name and a commit hash.
-        - They don't store any extra information like author, date, or message.
-        - They are similar to a branch that never moves.
-        - Not recommended for public releases, as they lack metadata.
-    2. **Annotated Tags**
-        - These are full Git objects, stored in the Git database.
-        - They include a tagger name, email, and date, along with a tagging
-        message.
-        - They can also be GPG-signed for verification.
-        - High recommended for public release because they contain valuable
-        metadata and can be verified.
+1. **Lightweight Tags**
+    - Think of these as simple, unchangeable pointers to a commit. They are
+    just a name and a commit hash.
+    - They don't store any extra information like author, date, or message.
+    - They are similar to a branch that never moves.
+    - Not recommended for public releases, as they lack metadata.
+2. **Annotated Tags**
+    - These are full Git objects, stored in the Git database.
+    - They include a tagger name, email, and date, along with a tagging
+    message.
+    - They can also be GPG-signed for verification.
+    - High recommended for public release because they contain valuable
+    metadata and can be verified.
+
+-------------------------------------------------------------------------------
 
 1. **Listing Tags**
     - `git tag`
